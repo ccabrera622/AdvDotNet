@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JAGZWlQ//7HwgH3lfuQ3zZ/QCREopVjqk0mzqL3ifYNWw3i3+lKb8pSFfhbUvOvfeVrEJYWX71neVoHNcT7JFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Christopher\\AdvDotNet\\02DotNetIntro\\HelloPlugin\\HelloPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christopher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Christopher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

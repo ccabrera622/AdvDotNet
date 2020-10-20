@@ -1,0 +1,9 @@
+C:\Users\Christopher\AdvDotNet\02DotNetIntro\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.deps.json
+C:\Users\Christopher\AdvDotNet\02DotNetIntro\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.dll
+C:\Users\Christopher\AdvDotNet\02DotNetIntro\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.pdb
+C:\Users\Christopher\AdvDotNet\02DotNetIntro\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.csprojAssemblyReference.cache
+C:\Users\Christopher\AdvDotNet\02DotNetIntro\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.AssemblyInfoInputs.cache
+C:\Users\Christopher\AdvDotNet\02DotNetIntro\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.AssemblyInfo.cs
+C:\Users\Christopher\AdvDotNet\02DotNetIntro\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\AdvDotNet\02DotNetIntro\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.dll
+C:\Users\Christopher\AdvDotNet\02DotNetIntro\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.pdb
